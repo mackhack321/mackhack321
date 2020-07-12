@@ -1,12 +1,18 @@
-### Hello there :)
+## **Hello there :)**
 
-My name is Mack, and I really, *really*, ***really*** like to code.
+### My name is Mack, and I really, *really*, ***really*** like to code.
 
 I am pretty good at:
   - Python
   - Java
   - C++
   - C#
+  - Linux
+  - Networking (i.e. restarting the router when the WiFi goes out)
+  - Documentation
+  - Googling things
+  - Working in and leading a team
+  - Robot Operating System (ROS)
 
 I have also played with:
   - MySQL
@@ -14,6 +20,7 @@ I have also played with:
   - HTML
   - Javascript
   - Electron
+  - Xamarin
 
 I am always very eager to learn new things, especially when it comes to technology and software development.
 
