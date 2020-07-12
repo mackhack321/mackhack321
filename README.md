@@ -2,7 +2,7 @@
 
 ### My name is Mack, and I really, *really*, ***really*** like to code.
 
-I am pretty good at:
+#### I am pretty good at:
   - Python
   - Java
   - C++
@@ -15,7 +15,7 @@ I am pretty good at:
   - Working in and leading a team
   - Getting things done on time
 
-I have also played with:
+#### I have also played with:
   - MySQL
   - Swift
   - HTML
