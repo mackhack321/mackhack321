@@ -1,16 +1,31 @@
-### Hi there 👋
+### Hello there :)
 
-<!--
-**mackhack321/mackhack321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Mack, and I really, *really*, ***really*** like to code.
 
-Here are some ideas to get you started:
+I am pretty good at:
+  - Python
+  - Java
+  - C++
+  - C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have also played with:
+  - MySQL
+  - Swift
+  - HTML
+  - Javascript
+  - Electron
+
+I am always very eager to learn new things, especially when it comes to technology and software development.
+
+My GitHub page is more just me playing around and teaching myself new skills more than a collection of huge impressive projects.
+However, there is still some cool stuff to look at here.
+
+I am proud of my KroCal project that I made during my employment at my local Kroger grocery store.  KroCal is a simple Python scripting project that uses webscraping and
+the Google Calendar API to yank my work schedule off of Kroger's employee schedule page and insert it into my Google Calendar which is a lot more painless to check.
+You can look at it [here](https://github.com/mackhack321/KroCal).
+
+Another cool thing I made came out of me teaching myself Javascript and NodeJS.  I made a simple volunteer hour tracker using Electron to both present a frontend and talk
+to a MySQL database.  I needed volnteer hours for school and figured I could turn it into a fun project, and I think it turned out pretty well.
+You can look at that [here](https://github.com/mackhack321/nhshours).
+
+Thank you for stopping by.  If you are an employer, please hire me.
