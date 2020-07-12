@@ -28,4 +28,4 @@ Another cool thing I made came out of me teaching myself Javascript and NodeJS. 
 to a MySQL database.  I needed volnteer hours for school and figured I could turn it into a fun project, and I think it turned out pretty well.
 You can look at that [here](https://github.com/mackhack321/nhshours).
 
-Thank you for stopping by.  If you are an employer, please hire me.
+Thank you for stopping by.  If you are an employer, [please hire me](https://www.linkedin.com/in/mack-stanley-674919190/).
