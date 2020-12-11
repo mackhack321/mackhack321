@@ -1,6 +1,6 @@
 ## **Hello there :)**
 
-### My name is Mack, and I really, *really*, ***really*** like to code.
+### My name is Mack, and I really like to code.
 
 #### I am pretty good at:
   - Python
