@@ -22,6 +22,7 @@
   - Javascript
   - Electron
   - Xamarin
+  - ASP.NET Core
 
 I am always very eager to learn new things, especially when it comes to technology and software development.
 
