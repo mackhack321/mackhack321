@@ -4,11 +4,9 @@
 
 #### I am pretty good at:
   - Python
-  - Java
   - C++
   - C#
   - Linux
-  - Robot Operating System (ROS)
   - Networking (i.e. restarting the router when the WiFi goes out)
   - Documentation
   - Googling things
@@ -19,10 +17,9 @@
   - MySQL
   - Swift
   - HTML
-  - Javascript
+  - React
   - Electron
   - Xamarin
-  - ASP.NET Core
 
 I am always very eager to learn new things, especially when it comes to technology and software development.
 
