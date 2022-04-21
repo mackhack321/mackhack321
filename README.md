@@ -11,6 +11,7 @@
   - Linux
   - Networking (i.e. restarting the router when the WiFi goes out)
   - Documentation
+  - Version control with Git
   - Googling things
   - Working in and leading a team
   - Getting things done on time
