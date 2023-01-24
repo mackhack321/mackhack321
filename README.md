@@ -1,8 +1,8 @@
-## **Hello there**
+## **Hello :)**
 
-### My name is Mack, and I really like to code.
+### My name is Mack, and I enjoy writing software.
 
-#### I am pretty good at:
+#### I am good at:
   - React
   - Tailwind CSS
   - Python
